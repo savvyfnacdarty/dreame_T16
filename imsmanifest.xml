@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="FD_ACADEMIE_DREAME_T16_V1" version="1.0"
+<manifest identifier="FD_ACADEMIE_DREAME_T16_FRPT_V2" version="1.0"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata><schema>ADL SCORM</schema><schemaversion>1.2</schemaversion></metadata>
   <organizations default="ORG1"><organization identifier="ORG1">
-    <title>Dreame T16 Pro Steam – Déballage, connexion, utilisation, entretien et FAQ</title>
+    <title>Dreame T16 Pro Steam – Déballage, connexion, utilisation, entretien et FAQ (FR / PT)</title>
     <item identifier="ITEM1" identifierref="RES1" isvisible="true"><title>Dreame T16 Pro Steam</title><adlcp:masteryscore>80</adlcp:masteryscore></item>
   </organization></organizations>
   <resources><resource identifier="RES1" type="webcontent" adlcp:scormtype="sco" href="index.html">
@@ -75,6 +75,70 @@
     <file href="audio/s28.mp3"/>
     <file href="audio/s29.mp3"/>
     <file href="audio/s30.mp3"/>
+    <file href="audio_pt/f01.mp3"/>
+    <file href="audio_pt/f02.mp3"/>
+    <file href="audio_pt/f03.mp3"/>
+    <file href="audio_pt/f04.mp3"/>
+    <file href="audio_pt/f05.mp3"/>
+    <file href="audio_pt/f06.mp3"/>
+    <file href="audio_pt/f07.mp3"/>
+    <file href="audio_pt/f08.mp3"/>
+    <file href="audio_pt/f09.mp3"/>
+    <file href="audio_pt/f10.mp3"/>
+    <file href="audio_pt/iq1c.mp3"/>
+    <file href="audio_pt/iq1q.mp3"/>
+    <file href="audio_pt/iq2c.mp3"/>
+    <file href="audio_pt/iq2q.mp3"/>
+    <file href="audio_pt/q01c.mp3"/>
+    <file href="audio_pt/q01q.mp3"/>
+    <file href="audio_pt/q02c.mp3"/>
+    <file href="audio_pt/q02q.mp3"/>
+    <file href="audio_pt/q03c.mp3"/>
+    <file href="audio_pt/q03q.mp3"/>
+    <file href="audio_pt/q04c.mp3"/>
+    <file href="audio_pt/q04q.mp3"/>
+    <file href="audio_pt/q05c.mp3"/>
+    <file href="audio_pt/q05q.mp3"/>
+    <file href="audio_pt/q06c.mp3"/>
+    <file href="audio_pt/q06q.mp3"/>
+    <file href="audio_pt/q07c.mp3"/>
+    <file href="audio_pt/q07q.mp3"/>
+    <file href="audio_pt/q08c.mp3"/>
+    <file href="audio_pt/q08q.mp3"/>
+    <file href="audio_pt/q09c.mp3"/>
+    <file href="audio_pt/q09q.mp3"/>
+    <file href="audio_pt/q10c.mp3"/>
+    <file href="audio_pt/q10q.mp3"/>
+    <file href="audio_pt/s01.mp3"/>
+    <file href="audio_pt/s02.mp3"/>
+    <file href="audio_pt/s03.mp3"/>
+    <file href="audio_pt/s04.mp3"/>
+    <file href="audio_pt/s05.mp3"/>
+    <file href="audio_pt/s06.mp3"/>
+    <file href="audio_pt/s07.mp3"/>
+    <file href="audio_pt/s08.mp3"/>
+    <file href="audio_pt/s09.mp3"/>
+    <file href="audio_pt/s10.mp3"/>
+    <file href="audio_pt/s11.mp3"/>
+    <file href="audio_pt/s12.mp3"/>
+    <file href="audio_pt/s13.mp3"/>
+    <file href="audio_pt/s14.mp3"/>
+    <file href="audio_pt/s15.mp3"/>
+    <file href="audio_pt/s16.mp3"/>
+    <file href="audio_pt/s17.mp3"/>
+    <file href="audio_pt/s18.mp3"/>
+    <file href="audio_pt/s19.mp3"/>
+    <file href="audio_pt/s20.mp3"/>
+    <file href="audio_pt/s21.mp3"/>
+    <file href="audio_pt/s22.mp3"/>
+    <file href="audio_pt/s23.mp3"/>
+    <file href="audio_pt/s24.mp3"/>
+    <file href="audio_pt/s25.mp3"/>
+    <file href="audio_pt/s26.mp3"/>
+    <file href="audio_pt/s27.mp3"/>
+    <file href="audio_pt/s28.mp3"/>
+    <file href="audio_pt/s29.mp3"/>
+    <file href="audio_pt/s30.mp3"/>
     <file href="video/p2.mp4"/>
     <file href="video/p3a.mp4"/>
     <file href="video/p3b.mp4"/>
